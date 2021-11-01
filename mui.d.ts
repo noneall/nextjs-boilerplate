@@ -1,0 +1,1 @@
+// declare custom props to your mui theme
